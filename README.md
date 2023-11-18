@@ -1,5 +1,5 @@
 mkdir new-project
-cd new project
+cd new-project
 git init
 echo "init" > README.md
 git add README.md
